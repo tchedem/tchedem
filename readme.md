@@ -23,8 +23,11 @@ Prometheus, Grafana, structured incident logging, backup and recovery strategies
 **Security (operational)**
 Service isolation, environment hardening, least privilege, OpenVPN site-to-site, SSL/TLS
 
+**Testing**
+Postman (API testing), JMeter (performance testing), Selenium (UI automation)
+
 **Software Development**
-Laravel (PHP), JS, Python, REST APIs, MariaDB, MongoDB
+Laravel (PHP), Python, REST APIs, MariaDB, MongoDB
 
 **Windows**
 Windows Server, Active Directory, PowerShell scripting
@@ -35,7 +38,7 @@ Windows Server, Active Directory, PowerShell scripting
 
 - Fortinet NSE 4 (in progress)
 - AWS Cloud Practitioner (in progress)
-- [my-works](https://github.com/tchedem/my-works): documented record of the production environments I have worked on
+<!-- - [my-works](https://github.com/tchedem/my-works): documented record of the production environments I have worked on -->
 
 ---
 
