@@ -1,4 +1,4 @@
-### Lucas Hountondji
+# Lucas Hountondji
 
 Infrastructure and DevOps specialist based in Calgary, Alberta.
 
@@ -6,10 +6,10 @@ I work at the systems level: Linux/Windows servers, containers, CI/CD pipelines,
 
 ---
 
-#### What I work with
+## What I work with
 
-**AI**
-Experienced with agent-context pipeline to support and strealine the integration of AI into daily workflows for documentation, automation, and development support.
+**AI Integration**
+Experience in building AI agent pipelines with centralized markdown entry points and modular rule-based context systems to improve documentation, automation, and development workflows.
 
 **DevOps and Automation**
 GitHub Actions, GitLab CI/CD, Bash scripting, n8n workflow automation
@@ -31,7 +31,7 @@ Windows Server, Active Directory, PowerShell scripting
 
 ---
 
-#### What I am working on
+## What I am working on
 
 - Fortinet NSE 4 (in progress)
 - AWS Cloud Practitioner (in progress)
@@ -39,7 +39,7 @@ Windows Server, Active Directory, PowerShell scripting
 
 ---
 
-#### Projects
+## Projects
 
 **[ansible-quick-starter](https://github.com/tchedem/ansible-quick-starter)**
 Ansible playbook for automated server provisioning. Built because environment setup was taking too long and drifting between runs. Cuts new project startup time significantly.
@@ -52,6 +52,6 @@ Real Nginx and Traefik configs for virtual hosts, SSL termination, and load bala
 
 ---
 
-#### Find me
+## Find me
 
 [linkedin.com/in/lucas-hountondji](https://linkedin.com/in/lucas-hountondji)
